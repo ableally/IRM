@@ -1,0 +1,249 @@
+
+	.mediaViewInfo {
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920___1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Web_1920___1;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920___1 {
+		position: absolute;
+		width: 1920px;
+		height: 4786px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920___1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Lorem_ipsum_dolor_sit_amet__co {
+		position: absolute;
+		left: 269px;
+		top: 462px;
+		overflow: hidden;
+		width: 576px;
+		height: 560px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(0,0,0,1);
+	}
+	#Lorem_ipsum_dolor_sit_amet__co_h {
+		position: absolute;
+		left: 1023px;
+		top: 1181px;
+		overflow: hidden;
+		width: 689px;
+		height: 688px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(0,0,0,1);
+	}
+	#Lorem_ipsum_dolor_sit_amet__co_i {
+		position: absolute;
+		left: 244px;
+		top: 2016px;
+		overflow: hidden;
+		width: 689px;
+		height: 688px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(0,0,0,1);
+	}
+	#Lorem_ipsum_dolor_sit_amet__co_j {
+		position: absolute;
+		left: 319px;
+		top: 2938px;
+		overflow: hidden;
+		width: 1284px;
+		height: 354px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(0,0,0,1);
+	}
+	#Lorem_ipsum_dolor_sit_amet__co_k {
+		position: absolute;
+		left: 329px;
+		top: 3395px;
+		overflow: hidden;
+		width: 1264px;
+		height: 251px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(0,0,0,1);
+	}
+	#Lorem_ipsum_dolor_sit_amet__co_l {
+		position: absolute;
+		left: 319px;
+		top: 3683px;
+		overflow: hidden;
+		width: 956px;
+		height: 77px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(0,0,0,1);
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 190px;
+		left: 0px;
+		top: 0px;
+	}
+	#IRM {
+		position: absolute;
+		left: 264px;
+		top: 23px;
+		overflow: visible;
+		width: 234px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Avenir 85;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 127px;
+		color: rgba(0,0,0,1);
+	}
+	#_Industry_Replication_Model {
+		position: absolute;
+		left: 269px;
+		top: 228px;
+		overflow: visible;
+		width: 895px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Avenir 85;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 71px;
+		color: rgba(0,0,0,1);
+	}
+	.Icon_awesome_industry {
+		overflow: visible;
+		position: absolute;
+		width: 612.074px;
+		height: 428px;
+		left: 1098.926px;
+		top: 504px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Icon_awesome_school {
+		overflow: visible;
+		position: absolute;
+		width: 626px;
+		height: 560.22px;
+		left: 243.5px;
+		top: 1222px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#AbleAlly_s {
+		position: absolute;
+		left: 269px;
+		top: 240px;
+		overflow: visible;
+		width: 306px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Avenir 85;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 65px;
+		color: rgba(0,0,0,1);
+	}
+	.Icon_metro_menu {
+		overflow: visible;
+		position: absolute;
+		width: 135.981px;
+		height: 109.504px;
+		left: 1553px;
+		top: 40.248px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Icon_awesome_recycle {
+		overflow: visible;
+		position: absolute;
+		width: 438.3px;
+		height: 430.912px;
+		left: 1185.813px;
+		top: 2144.544px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#brought_you_by__AbleAlly {
+		position: absolute;
+		left: 319px;
+		top: 4080px;
+		overflow: visible;
+		width: 589px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Avenir 85;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 78px;
+		color: rgba(0,0,0,1);
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 422px;
+		left: 0px;
+		top: 4364px;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 541px;
+		height: 174px;
+		left: 1061px;
+		top: 3809px;
+		overflow: visible;
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 541px;
+		height: 174px;
+		left: 0px;
+		top: 0px;
+	}
+	#Download {
+		position: absolute;
+		left: 116px;
+		top: 38px;
+		overflow: visible;
+		width: 311px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Avenir 85;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 65px;
+		color: rgba(255,245,245,1);
+	}
